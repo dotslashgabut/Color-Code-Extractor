@@ -16,7 +16,7 @@ Extracts hexadecimal color codes based on pixel coordinates.
 
 ![Original image, the pixels not replaced](https://raw.githubusercontent.com/dotslashgabut/PNG-Pixel-Replacer-with-ASCII-Text-Input/main/a-cat-original-image.png)
 
-### Output Image
+### Output Image _(Pixels Replaced)_
 
 ![Converted image, the pixel has been replaced.](https://github.com/dotslashgabut/PNG-Pixel-Replacer-with-ASCII-Text-Input/blob/main/a-cat-pixels-replaced.png)
 
